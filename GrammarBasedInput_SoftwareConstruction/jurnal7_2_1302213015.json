@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Joe",
+       "lastName": "Jacob",
+       "gender": "male",
+       "age": 28,
+       "nim": "7349282382"
+    },
+    {
+       "firstName": "James",
+       "lastName": "Smooth",
+       "gender": "male",
+       "age": 32,
+       "nim": "5678568567"
+    },
+    {
+       "firstName": "Emily",
+       "lastName": "Kelies",
+       "gender": "female",
+       "age": 24,
+       "nim": "456754675"
+    }
+  ]
+}

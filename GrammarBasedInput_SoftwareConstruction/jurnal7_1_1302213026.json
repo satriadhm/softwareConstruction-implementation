@@ -1,0 +1,15 @@
+{
+   "firstName": "Vidya",
+   "lastName": "Ratmayanti",
+   "gender": "Female",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukapura",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CII3B4", "name": "Pemrogrmaman Berorientasi Objek" }
+   ]
+}

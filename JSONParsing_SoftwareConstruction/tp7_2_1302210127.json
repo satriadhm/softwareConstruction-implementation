@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "AAAAAA",
+			"name": "OOP"
+		},
+		{
+			"code": "BBBBBB",
+			"name": "Proting"
+		},
+		{
+			"code": "CCCCCC",
+			"name": "Jarkom"
+		},
+		{
+			"code": "DDDDDD",
+			"name": "Basdat"
+		},
+		{
+			"code": "EEEEEE",
+			"name": "UX"
+		},
+		{
+			"code": "FFFFFF",
+			"name": "SQA"
+		}
+	]
+}
